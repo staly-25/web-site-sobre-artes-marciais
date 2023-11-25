@@ -1,0 +1,28 @@
+body{
+    background: rgb(0,168,255);
+background: radial-gradient(circle, rgba(0,168,255,1) 0%, rgba(0,0,0,1) 100%);
+    color: #ffffff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo{
+    font-size: 36px;
+    font-style: italic;
+    color: #3700ff
+}
+
+.subtitulo{
+    font-size: 24px;
+    text-decoration: underline;
+    color: #48a9ea;
+}
+
+img{
+    max-width: 500px;
+}
+img{
+    max-width: 500px;
+    border-radius: 5%;
+}
+img :hover{
+    transition: 0.5s ease-in-out
